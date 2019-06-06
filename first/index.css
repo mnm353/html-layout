@@ -11,6 +11,20 @@
     height: 200px;
 }
 
+.content-left {
+    background-color: rgb(190, 185, 185);
+    float: left;
+    width: 200px;
+    height: 100vh;
+}
+
+.content-right {
+    background-color: rgb(190, 185, 185);
+    float: right;
+    width: 200px;
+    height: 100vh;
+}
+
 .main-content {
     background-color: rgb(255, 255, 255);
     margin: 0 auto;
@@ -19,19 +33,6 @@
 
 }
 
-.content-left {
-    background-color: rgb(190, 185, 185);
-    float: left;
-    width: 200px;
-    height: 100vh;
-}
-
-.content.right {
-    background-color: rgb(190, 185, 185);
-    float: right;
-    width: 200px;
-    height: 100vh;
-}
 
 .footer { 
     background-color: #1b1a1a;
